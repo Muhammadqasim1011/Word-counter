@@ -1,5 +1,3 @@
-Here’s a sample `README.md` file for your project, including a section for team collaboration:
-
 ```markdown
 # Word Count Application
 

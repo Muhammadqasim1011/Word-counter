@@ -21,7 +21,7 @@ This application provides a comprehensive analysis of the text input by the user
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Muhammadqasim1011/Word-counter.git>
    ```
 
 2. Navigate to the project directory:
@@ -44,7 +44,7 @@ This application provides a comprehensive analysis of the text input by the user
 
 ### GitHub Links
 
-- [Muhammad Qasim](https://github.com/<your-github-username>)
+- [Muhammad Qasim](https://github.com/Muhammadqasim1011)
 - [Danish Yousufzai](https://github.com/<your-github-username>)
 - [Malik M. Umail](https://github.com/<your-github-username>)
 - [M. Abdullah](https://github.com/<your-github-username>)

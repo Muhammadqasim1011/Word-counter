@@ -1,4 +1,3 @@
-```markdown
 # Word Count Application
 
 This application provides a comprehensive analysis of the text input by the user. It counts the total number of words, sentences, characters, and paragraphs. Additionally, it displays the top five most frequently used words in the input text.
@@ -59,4 +58,3 @@ If you want to contribute to this project, please fork the repository and submit
 ## License
 
 This project is licensed under the MIT License.
-```

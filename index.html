@@ -10,7 +10,8 @@
 
     <div class="container">
         <h1>Word Counter</h1>
-        <textarea name="" id="our-text"></textarea>
+        <p class="start">Track word and character count, fix grammar, summarize text, extract keywords and more for any text with this advanced free tool.</p>
+        <textarea name="" id="our-text" placeholder="Type or Paste your text here...."></textarea>
 
         <div class="counter">
             <p>Characters: <span id="characters">0</span></p>
@@ -18,6 +19,12 @@
             <p>Sentences: <span id="sentences">0</span></p>
             <p>Paragraph: <span id="paragraph">0</span></p>
         </div>
+
+        <div class="top-words">
+            <h2>Top 5 Words</h2>
+            <ul id="top-words-list"></ul>
+        </div>
+
     </div>
     
     <script src="script.js"></script>
